@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Oditha
 
-<!--
-**oditha98/oditha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Engineer from Sri Lanka 🇱🇰
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Associate Software Engineer
+- 🌱 Learning DevOps and Cloud Technologies
+- ☁️ AWS Enthusiast
+- 🤖 Interested in Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+C# | .NET | Python | React | AWS | MySQL | Git
+
+## Featured Projects
+- Sinhala Sign Language Translation System
+- NetFlow Analyzer
+- Real Estate Automation Project
+
+## Connect With Me
+- LinkedIn - Oditha Herath
+- Email
