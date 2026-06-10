@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Oditha Chamika Bandara Herath
+# Hi there 👋, I'm Oditha Herath
 
 ### Associate Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast
 
@@ -24,10 +24,10 @@ I am a passionate Software Engineer from Sri Lanka 🇱🇰 with experience in F
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/oditha-herath-00701318b/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:odithachamika2015@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
